@@ -1,4 +1,4 @@
-![img_kjtv_66_sec](https://github.com/Maria-Ul/YellowRailwayCar-Detection/assets/58764063/324f6fbf-9e6a-49cc-80b4-2415dcc2ecdf)# YellowRailwayCar-Detection
+# YellowRailwayCar-Detection
 YOLO implementation for yellow railway car detection
 
 Ссылка на данные: https://drive.google.com/drive/folders/1yH2gUUZAw6jHL3a_0X6u-gT1-CPLFU-f
