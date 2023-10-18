@@ -17,6 +17,7 @@ YOLO implementation for yellow railway car detection
 Основные метрики mAP50, mAP50-95
 
 * Тренировка
+  
   mAP50 = 0.994
   
   mAP50-95 = 0.66
@@ -31,6 +32,7 @@ YOLO implementation for yellow railway car detection
 
   
 * Валидация
+  
   mAP50 = 0.992
   
   mAP50-95 =  0.66
@@ -45,11 +47,13 @@ YOLO implementation for yellow railway car detection
 
   
 * Тест
-  Во время предсказаний добавлена Test-Time Augmentation, чтобы повысить точность определения, но, кажется. излишне. 
+  
+  Во время предсказаний добавлена Test-Time Augmentation, чтобы повысить точность определения, но, кажется. излишне.
+  
   Speed: 2.6ms preprocess, 9.3ms inference, 2.0ms postprocess per image at shape (1, 3, 384, 640)
 ![img_kjtv_106_sec](https://github.com/Maria-Ul/YellowRailwayCar-Detection/assets/58764063/90df506c-8ff6-4b81-9b9a-e3a4a0d78ae6)
 ![img_kjtv_121_sec](https://github.com/Maria-Ul/YellowRailwayCar-Detection/assets/58764063/d9a3fd00-4820-4e42-9a10-699af55eca56)
-![img_kjtv_121_sec](https://github.com/Maria-Ul/YellowRailwayCar-Detection/assets/58764063/207cb649-4930-47d1-ac12-fb83f970c085)
+![img_kjtv_128_sec](https://github.com/Maria-Ul/YellowRailwayCar-Detection/assets/58764063/21f90fe1-6ad8-443c-8110-a09aa11b1eff)
 
 
   
