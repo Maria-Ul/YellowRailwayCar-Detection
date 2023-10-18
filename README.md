@@ -7,7 +7,7 @@ YOLO implementation for yellow railway car detection
 
 
 # Предсказание yolov8 с весами yolov8n.pt
-(т.к. в COCO, на котором училась yolo есть машины, появилась идея не учить yolo вообще и посмотреть как она воспримет жд машину)
+В COCO, на котором училась yolo, есть машины – появилась идея не учить yolo вообще и посмотреть как она воспримет жд машину.
 Пара примеров предсказаний:
 ![img_kjtv_0_sec](https://github.com/Maria-Ul/YellowRailwayCar-Detection/assets/58764063/9382976a-ba68-4ead-8728-69ed52311ef3)
 
@@ -18,6 +18,7 @@ YOLO implementation for yellow railway car detection
 
 * Тренировка
   mAP50 = 0.994
+  
   mAP50-95 = 0.66
 
   Основные показатели в процессе тренировки выхоядт на плато:
@@ -31,6 +32,7 @@ YOLO implementation for yellow railway car detection
   
 * Валидация
   mAP50 = 0.992
+  
   mAP50-95 =  0.66
   
   Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 8/8 [00:14<00:00,  1.75s/it]
