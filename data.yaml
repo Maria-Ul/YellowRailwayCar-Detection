@@ -1,9 +1,9 @@
-train: /content/data/images/train
-val:  /content/data/images/val
-test: /content/data/images/test
+train: ./data/images/train
+val: ./data/images/val
+test: ./data/images/test
 
 # number of classes
 nc: 1
 
 # class names
-names: ["car"]
+names: ["railwaycar"]
