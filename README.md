@@ -21,7 +21,7 @@ YOLO implementation for yellow railway car detection
   
   mAP50-95 = 0.66
 
-  Основные показатели в процессе тренировки выхоядт на плато:
+  Основные показатели в процессе тренировки выходят на плато:
   
   ![train](https://github.com/Maria-Ul/YellowRailwayCar-Detection/assets/58764063/5140e339-3873-4045-b677-14d7ffa19720)
 
