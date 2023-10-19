@@ -1,6 +1,8 @@
 # YellowRailwayCar-Detection
 YOLO implementation for yellow railway car detection
 
+Cсылка на clearml эксперимента: https://app.clear.ml/projects/e4cf88d5f00b46aaa0e77e84291952a7/experiments/3ef233142cba46388e1d91dcb1d21c75/output/execution
+
 Ссылка на данные: https://drive.google.com/drive/folders/1yH2gUUZAw6jHL3a_0X6u-gT1-CPLFU-f
 
 Ссылка на веса: https://drive.google.com/file/d/1sVpZJuqk9tu97AVV37ey7m9E5flunGUg/view?usp=sharing
