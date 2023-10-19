@@ -54,7 +54,7 @@ YOLO implementation for yellow railway car detection
   
   Speed: 2.6ms preprocess, 9.3ms inference, 2.0ms postprocess per image at shape (1, 3, 384, 640)
 
-  Результаты предсказания модели: https://drive.google.com/file/d/1sVpZJuqk9tu97AVV37ey7m9E5flunGUg/view?usp=sharing
+  Результаты предсказания модели: https://drive.google.com/file/d/1ZSNtW_xt9uh_3mMCfymRsdohpNvFVQiK/view?usp=sharing
 
   Несколько примеров:
 ![img_kjtv_106_sec](https://github.com/Maria-Ul/YellowRailwayCar-Detection/assets/58764063/90df506c-8ff6-4b81-9b9a-e3a4a0d78ae6)
