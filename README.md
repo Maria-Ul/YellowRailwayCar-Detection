@@ -1,6 +1,8 @@
 # YellowRailwayCar-Detection
 YOLO implementation for yellow railway car detection
 
+Почему YOLO? YOLO - это простое SOTA решение, которое позволяет быстро решить задачу и сделать визуализацию на данных. 
+
 Cсылка на clearml эксперимента: https://app.clear.ml/projects/e4cf88d5f00b46aaa0e77e84291952a7/experiments/3ef233142cba46388e1d91dcb1d21c75/output/execution
 
 Ссылка на данные: https://drive.google.com/drive/folders/1yH2gUUZAw6jHL3a_0X6u-gT1-CPLFU-f
